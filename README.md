@@ -2,10 +2,7 @@
 
 # Evermade
 
-Developer · UI Designer · Software Tester
-
-Tworzę strony internetowe, projektuję interfejsy
-i rozwijam własne projekty.
+I am a developer working on [AdviceBot](https://advicebot.info/), an all-in-one Discord bot, and a member of the Management Team at [DevMe](https://devme.app/)
 
 ## Aktualnie
 
