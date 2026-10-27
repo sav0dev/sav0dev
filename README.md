@@ -1,4 +1,4 @@
-![Mój baner](assets/banner.png)
+![Mój baner](banner.png)
 
 # Evermade
 
