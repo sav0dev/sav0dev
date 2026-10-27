@@ -1,6 +1,6 @@
 ![Mój baner](assets/banner.png)
 
-# Kacper
+# Evermade
 
 Developer · UI Designer · Software Tester
 
@@ -20,10 +20,9 @@ i rozwijam własne projekty.
 | Backend | Wpisz swoje technologie |
 | Design | Wpisz swoje narzędzia |
 
-## Projekty
+## Projects
 
-### AdviceBot
-[Odwiedź stronę](https://advicebot.info)
+### [AdviceBot](https://advicebot.info)
 
 ### Evermade
 Roblox development studio creating custom games.
